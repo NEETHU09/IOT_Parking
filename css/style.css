@@ -1,0 +1,141 @@
+
+header
+{
+  background-color:#fceede;
+  height: 50px;
+  font:bold;
+  box-sizing: border-box;
+  margin-top:20px;
+}
+
+#header ul
+{
+  display: inline;
+}
+
+#header ul li
+{
+  display: inline;
+  padding 10px 10px;
+}
+
+#header ul li a
+{
+    display:inline;
+    text-decoration: none;
+    font-family: Arial;
+    padding: 10px 10px;
+    font-size: 20px;
+    color:brown;
+    border-radius: 2px;
+    border: brown;
+}
+
+#header ul li a:hover
+{
+  color:orange;
+}
+
+#container2
+{
+  margin-top:55px;
+}
+.text, textsize
+{
+	position: absolute;
+   top: 200px;
+   left: 360px;
+   font-size:55px;
+   width: 600px;
+	 color:#380000 ;
+   font-family: Algerian;
+}
+
+.textsize
+{
+font-size: 28px;
+}
+
+#more
+{
+margin-top:70px;
+margin-left:20px;
+}
+
+a{
+  text-decoration: none;
+  color:brown;
+  border-style: solid;
+  border-width: 1px;
+}
+
+#container3,#grid4,.smalltext
+{
+  margin-top: 30px;
+  background:white;
+  color: black;
+  font-size: 18px;
+  text-align: center;
+}
+
+.smalltext
+{
+  font-size: 15px;
+}
+
+#container4
+{
+  margin-top: 30px;
+  background:#FFCCCC;
+}
+
+#grid6
+{
+  margin-top: 30px;
+  text-align: left;
+  font-style: italic;
+}
+
+#grid7
+{
+  text-align: right;
+  margin-top: 30px;
+  font-style: italic;
+}
+
+#container6
+{
+  background-image: url("bg.jpg");
+  height:450px;
+}
+
+#cont6grid4
+{
+    margin-top: 40px;
+    margin-left: 45px;
+    background-color:#FFCC66;
+    width:250px;
+    height:350px;
+    color:#330000;
+}
+
+.alink
+{
+  color:#FF6600;
+  text-decoration:underline;
+  border-style: none;
+}
+
+.footer
+{
+  background-color: #FFFFCC;
+  font-style: italic;
+}
+
+.afooter
+{
+  color:#FF6600;
+  text-decoration:none;
+  border-style: none;
+  font-style: italic;
+}
