@@ -1,8 +1,8 @@
 
 header
 {
-  background-color:#fceede;
-  height: 50px;
+  background-color:white;
+  height: 100px;
   font:bold;
   box-sizing: border-box;
   margin-top:20px;
@@ -38,7 +38,7 @@ header
 
 #container2
 {
-  margin-top:55px;
+  margin-top:10px;
 }
 .text, textsize
 {
@@ -58,7 +58,7 @@ font-size: 28px;
 
 #more
 {
-margin-top:70px;
+margin-top:50px;
 margin-left:20px;
 }
 
@@ -67,6 +67,7 @@ a{
   color:brown;
   border-style: solid;
   border-width: 1px;
+  font-size: 20px;
 }
 
 #container3,#grid4,.smalltext
